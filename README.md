@@ -42,15 +42,24 @@ Please cite this paper if you want to use it in your work,
   pages={123--133},
   year={2021}
 } -->
+ ### Visulization of Cardinality
+<p align="center"> 
+    <img src="./resources/cardinality.PNG">
+</p>
+
+ ### Visulization of Normal
+<p align="center"> 
+    <img src="./resources/cardinality.PNG">
+</p>
 
  ### PointSegDA dataset
 <p align="center"> 
     <img src="./resources/seg.png">
 </p>
 
-### Shape Reconstruction
+### PointDA dataset tsne
 <p align="center"> 
-    <img src="./resources/cardinality.pdf">
+    <img src="./resources/classification.PNG">
 </p> 
  
 
