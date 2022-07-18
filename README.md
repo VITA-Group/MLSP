@@ -1,7 +1,7 @@
 # Point Cloud Domain Adaptation via Masked Local 3D Structure Prediction
 
 <p align="center"> 
-    <img src="./resources/arch_new.png" width="400">
+    <img src="./resources/arch_new.png">
 </p> 
  
  ### Abstract
@@ -42,7 +42,8 @@ Please cite this paper if you want to use it in your work,
   pages={123--133},
   year={2021}
 } -->
- ### Visulization of Cardinality
+
+ <!-- ### Visulization of Cardinality
 <p align="center"> 
     <img src="./resources/cardinality.PNG">
 </p>
@@ -50,7 +51,7 @@ Please cite this paper if you want to use it in your work,
  ### Visulization of Normal
 <p align="center"> 
     <img src="./resources/cardinality.PNG">
-</p>
+</p> -->
 
  ### PointSegDA dataset
 <p align="center"> 
