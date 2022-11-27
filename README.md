@@ -1,4 +1,4 @@
-# Point Cloud Domain Adaptation via Masked Local 3D Structure Prediction
+# Point Cloud Domain Adaptation via Masked Local 3D Structure Prediction [ECCV2022]
 
 <p align="center"> 
     <img src="./resources/arch_new.png">
