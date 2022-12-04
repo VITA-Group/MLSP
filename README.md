@@ -1,5 +1,4 @@
-# Point Cloud Domain Adaptation via Masked Local 3D Structure Prediction [ECCV2022]
-
+# [ECCV 2022] “Point Cloud Domain Adaptation via Masked Local 3D Structure Prediction” [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630159.pdf)
 <p align="center"> 
     <img src="./resources/arch_new.png">
 </p> 
