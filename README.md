@@ -1,4 +1,4 @@
-[ECCV 2022] “Point Cloud Domain Adaptation via Masked Local 3D Structure Prediction” [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630159.pdf)
+[ECCV 2022] Point Cloud Domain Adaptation via Masked Local 3D Structure Prediction [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630159.pdf)
 
 Hanxue Liang, Hehe Fan, Zhiwen Fan, Yi Wang, Tianlong Chen, Yu Cheng, Zhangyang Wang
 <p align="center"> 
