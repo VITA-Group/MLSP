@@ -9,9 +9,10 @@ The superiority of deep learning based point cloud representations relies on lar
 ### Instructions
 Clone repo and install it
 
+
+```
 cd MLSP
 pip install -e .
-```
 you also need to install pintnet, knn-cuda and pointcloud lib pcl:
 # PointNet++
 pip install "git+git://github.com/erikwijmans/Pointnet2_PyTorch.git#egg=pointnet2_ops&subdirectory=pointnet2_ops_lib"
